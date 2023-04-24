@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716233767949",
+    "project_id": "thews-6df8b",
+    "storage_bucket": "thews-6df8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716233767949:android:59624c3f66c5abed6f6944",
+        "android_client_info": {
+          "package_name": "com.example.thews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716233767949-7skj0u0lddmjalj9ovquc3ppil12qqt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmlgSbLLmnTVE77amNdFyQMzTE4KqrBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716233767949-7skj0u0lddmjalj9ovquc3ppil12qqt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
