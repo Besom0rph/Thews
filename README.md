@@ -2,7 +2,7 @@
 News reading app <br><br>
 
 
-for ITDS283 Mobile Application Development / Semester 2/2565  <br><>br>
+for ITDS283 Mobile Application Development at Semester 2/2565  <br><br>
 
 Member  <br><br>
 
